@@ -138,7 +138,7 @@ php:
         display_errors: On
         error_reporting: '-1'
         session.save_path: /var/lib/php/session
-    timezone: Africa/Accra
+    timezone: America/Montreal
     mod_php: 0
 hhvm:
     install: '0'
@@ -162,7 +162,7 @@ xdebug:
         xdebug.remote_handler: dbgp
         xdebug.remote_port: '9000'
 xhprof:
-    install: '1'
+    install: '0'
 wpcli:
     install: '0'
     version: v0.17.1
