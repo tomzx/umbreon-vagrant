@@ -86,3 +86,16 @@ mod 'puppetlabs/vcsrepo',
 mod 'example42/yum',
     :git => 'https://github.com/example42/puppet-yum.git',
     :ref => 'v2.1.10'
+mod 'erwbgy/pdns'
+mod 'razorsedge/snmp'
+mod 'thias/postfix'
+mod 'example42/dovecot'
+mod 'jdowning/statsd'
+mod 'rtyler/jenkins'
+#mod 'alkivi/owncloud'
+mod 'puppetlabs/haproxy'
+mod 'dhoppe/monit'
+mod 'saz/dnsmasq'
+mod 'ssm/munin'
+mod 'leonardothibes/s3cmd'
+mod 'sbadia/gitlab'
